@@ -1,0 +1,22 @@
+{
+  "name": "target-challenges",
+  "version": "1.0.0",
+  "description": "Este repositório contém a solução dos desafios para a Target Sistemas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "desafio1": "ts-node src/desafio1.ts",
+    "desafio2": "ts-node src/desafio2.ts",
+    "desafio3": "ts-node src/desafio3.ts",
+    "desafio4": "ts-node src/desafio4.ts",
+    "desafio5": "ts-node src/desafio5.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.10.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
+  }
+}
